@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hayd0ss/t3-backend-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hayd0ss/netlify-api-express-v2/issues"
+    "url": "https://github.com/hayd0ss/t3-backend-server/issues"
   },
-  "homepage": "https://github.com/hayd0ss/netlify-api-express-v2#readme",
+  "homepage": "https://github.com/hayd0ss/t3-backend-server#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
