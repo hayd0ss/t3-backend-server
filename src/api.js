@@ -8,8 +8,6 @@ const router = express.Router()
 
 app.use(cors())
 
-// test
-
 // needed for adding a document 
 const bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({
